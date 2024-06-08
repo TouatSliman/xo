@@ -1,0 +1,12 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="xo" clip-path="url(#clip0_1_2)">
+<rect id="Rectangle 1" x="118.056" width="13.913" height="166.957" rx="2" transform="rotate(45 118.056 0)" fill="#00ADB5"/>
+<rect id="Rectangle 2" y="9.83801" width="13.913" height="166.957" rx="2" transform="rotate(-45 0 9.83801)" fill="#00ADB5"/>
+<path id="Subtract" fill-rule="evenodd" clip-rule="evenodd" d="M64 128C99.3462 128 128 99.3462 128 64C128 28.6538 99.3462 0 64 0C28.6538 0 0 28.6538 0 64C0 99.3462 28.6538 128 64 128ZM64 116.87C93.1991 116.87 116.87 93.1991 116.87 64C116.87 34.8009 93.1991 11.1304 64 11.1304C34.8009 11.1304 11.1304 34.8009 11.1304 64C11.1304 93.1991 34.8009 116.87 64 116.87Z" fill="#00ADB5"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2">
+<rect width="128" height="128" fill="white"/>
+</clipPath>
+</defs>
+</svg>
